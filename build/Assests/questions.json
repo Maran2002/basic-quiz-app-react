@@ -1,0 +1,333 @@
+[
+    {
+      "id": 1,
+      "question": "What does JSX stand for in React?",
+      "options": [
+        "JavaScript XML",
+        "JavaScript XSL",
+        "JavaScript XHTML",
+        "JavaScript XMLS"
+      ],
+      "answer": "JavaScript XML"
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the `useState` hook in React?",
+      "options": [
+        "To manage state in a functional component",
+        "To manage side effects",
+        "To handle routing",
+        "To optimize performance"
+      ],
+      "answer": "To manage state in a functional component"
+    },
+    {
+      "id": 3,
+      "question": "How do you create a component in React?",
+      "options": [
+        "By using a function or class",
+        "By using a string",
+        "By using an object",
+        "By using a number"
+      ],
+      "answer": "By using a function or class"
+    },
+    {
+      "id": 4,
+      "question": "What is a virtual DOM?",
+      "options": [
+        "A lightweight copy of the real DOM",
+        "A complete replica of the real DOM",
+        "A database",
+        "A server-side concept"
+      ],
+      "answer": "A lightweight copy of the real DOM"
+    },
+    {
+      "id": 5,
+      "question": "How do you add a class to an element in HTML?",
+      "options": [
+        "<element class='class-name'>",
+        "<element className='class-name'>",
+        "<element className='class-name' />",
+        "<element class='class-name' />"
+      ],
+      "answer": "<element class='class-name'>"
+    },
+    {
+      "id": 6,
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Creative Style Sheets",
+        "Cascading Script Sheets",
+        "Creative Script Sheets"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 7,
+      "question": "How do you center a block element horizontally using CSS?",
+      "options": [
+        "margin: auto;",
+        "text-align: center;",
+        "float: center;",
+        "position: center;"
+      ],
+      "answer": "margin: auto;"
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the `padding` property in CSS?",
+      "options": [
+        "To add space inside an element",
+        "To add space outside an element",
+        "To set the border color",
+        "To set the font size"
+      ],
+      "answer": "To add space inside an element"
+    },
+    {
+      "id": 9,
+      "question": "What is the default value of the `position` property in CSS?",
+      "options": [
+        "static",
+        "relative",
+        "absolute",
+        "fixed"
+      ],
+      "answer": "static"
+    },
+    {
+      "id": 10,
+      "question": "What is `event delegation` in JavaScript?",
+      "options": [
+        "A technique of attaching a single event listener to a parent element",
+        "A method of creating multiple event listeners",
+        "A way to handle async operations",
+        "A technique for DOM manipulation"
+      ],
+      "answer": "A technique of attaching a single event listener to a parent element"
+    },
+    {
+      "id": 11,
+      "question": "How do you declare a variable in JavaScript?",
+      "options": [
+        "var, let, or const",
+        "int, float, or string",
+        "define, create, or set",
+        "new, const, or let"
+      ],
+      "answer": "var, let, or const"
+    },
+    {
+      "id": 12,
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A function that retains access to its lexical scope",
+        "A function that closes a loop",
+        "A method for asynchronous operations",
+        "A data structure"
+      ],
+      "answer": "A function that retains access to its lexical scope"
+    },
+    {
+      "id": 13,
+      "question": "What does `DOM` stand for?",
+      "options": [
+        "Document Object Model",
+        "Data Object Model",
+        "Document Operations Management",
+        "Dynamic Object Model"
+      ],
+      "answer": "Document Object Model"
+    },
+    {
+      "id": 14,
+      "question": "What is the purpose of the `map` method in JavaScript?",
+      "options": [
+        "To create a new array with the results of calling a function on every element",
+        "To filter an array based on a condition",
+        "To sort an array",
+        "To remove elements from an array"
+      ],
+      "answer": "To create a new array with the results of calling a function on every element"
+    },
+    {
+      "id": 15,
+      "question": "What is the difference between `==` and `===` in JavaScript?",
+      "options": [
+        "`==` compares values with type coercion, `===` compares values without type coercion",
+        "`==` compares values without type coercion, `===` compares values with type coercion",
+        "`==` and `===` are the same",
+        "`==` compares values and types, `===` compares only values"
+      ],
+      "answer": "`==` compares values with type coercion, `===` compares values without type coercion"
+    },
+    {
+      "id": 16,
+      "question": "What is a `component` in React?",
+      "options": [
+        "A reusable piece of the UI",
+        "A method for handling events",
+        "A style sheet",
+        "A database query"
+      ],
+      "answer": "A reusable piece of the UI"
+    },
+    {
+      "id": 17,
+      "question": "How can you pass data from a parent component to a child component in React?",
+      "options": [
+        "By using props",
+        "By using state",
+        "By using context",
+        "By using ref"
+      ],
+      "answer": "By using props"
+    },
+    {
+      "id": 18,
+      "question": "What is the purpose of `componentDidMount` lifecycle method in React?",
+      "options": [
+        "To perform actions after the component is mounted",
+        "To handle updates to the component",
+        "To clean up resources before unmounting",
+        "To initialize state"
+      ],
+      "answer": "To perform actions after the component is mounted"
+    },
+    {
+      "id": 19,
+      "question": "What is the `render` method used for in React components?",
+      "options": [
+        "To describe how the UI should look",
+        "To handle state updates",
+        "To perform side effects",
+        "To handle user input"
+      ],
+      "answer": "To describe how the UI should look"
+    },
+    {
+      "id": 20,
+      "question": "What does the `@import` rule do in CSS?",
+      "options": [
+        "Imports external stylesheets",
+        "Adds inline styles",
+        "Sets the display property",
+        "Defines a CSS variable"
+      ],
+      "answer": "Imports external stylesheets"
+    },
+    {
+      "id": 21,
+      "question": "How can you apply a style to a specific element in CSS?",
+      "options": [
+        "By using selectors",
+        "By using attributes",
+        "By using tags",
+        "By using values"
+      ],
+      "answer": "By using selectors"
+    },
+    {
+      "id": 22,
+      "question": "What is the `flex` property in CSS used for?",
+      "options": [
+        "To define flexible box layout",
+        "To set font size",
+        "To manage text alignment",
+        "To add borders"
+      ],
+      "answer": "To define flexible box layout"
+    },
+    {
+      "id": 23,
+      "question": "What is the purpose of the `fetch` API in JavaScript?",
+      "options": [
+        "To make network requests",
+        "To handle DOM manipulations",
+        "To manage local storage",
+        "To style elements"
+      ],
+      "answer": "To make network requests"
+    },
+    {
+      "id": 24,
+      "question": "How do you create a new object in JavaScript?",
+      "options": [
+        "By using `{}`",
+        "By using `[]`",
+        "By using `()`",
+        "By using `<>`"
+      ],
+      "answer": "By using `{}`"
+    },
+    {
+      "id": 25,
+      "question": "What is the `this` keyword used for in JavaScript?",
+      "options": [
+        "To refer to the current object",
+        "To refer to the previous object",
+        "To refer to a global object",
+        "To refer to a parent object"
+      ],
+      "answer": "To refer to the current object"
+    },
+    {
+      "id": 26,
+      "question": "What is the purpose of `props` in React?",
+      "options": [
+        "To pass data to components",
+        "To manage internal state",
+        "To handle side effects",
+        "To create styles"
+      ],
+      "answer": "To pass data to components"
+    },
+    {
+      "id": 27,
+      "question": "What is the `box-shadow` property used for in CSS?",
+      "options": [
+        "To add shadow effects to elements",
+        "To set element borders",
+        "To align text",
+        "To adjust element spacing"
+      ],
+      "answer": "To add shadow effects to elements"
+    },
+    {
+      "id": 28,
+      "question": "How can you execute a function when a button is clicked in JavaScript?",
+      "options": [
+        "By adding an `onclick` event listener",
+        "By using the `setTimeout` function",
+        "By defining a `click` function",
+        "By using the `addEventListener` method"
+      ],
+      "answer": "By adding an `onclick` event listener"
+    },
+    {
+      "id": 29,
+      "question": "What is the `Object.keys()` method used for in JavaScript?",
+      "options": [
+        "To get an array of an object's keys",
+        "To get an array of an object's values",
+        "To create a new object",
+        "To set an object's prototype"
+      ],
+      "answer": "To get an array of an object's keys"
+    },
+    {
+      "id": 30,
+      "question": "How do you apply styles to a React component?",
+      "options": [
+        "By using the `style` attribute",
+        "By using a `style` tag",
+        "By importing a CSS file",
+        "By using inline CSS only"
+      ],
+      "answer": "By using the `style` attribute"
+    }
+  ]
+  

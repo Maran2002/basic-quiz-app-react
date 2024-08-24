@@ -1,0 +1,19 @@
+footer{
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+}
+footer h3{
+    margin: 0;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+    padding: 1rem;
+}
+footer h3 a{
+    text-decoration: none;
+    color: aliceblue;
+}

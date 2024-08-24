@@ -1,0 +1,44 @@
+
+html{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+
+}
+#root{
+    margin: 0;
+    padding: 0;
+    flex: 1;
+}
+label{
+    display: flex;
+    padding: 0.3rem;
+    margin: 0.5rem;
+    font-size: 20px;
+}
+input{
+    padding: 0.2rem;
+    margin-left: 0.5rem;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    border: 2px solid aliceblue;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.5rem;
+    background-color: rgb(0, 136, 109);
+    color: white;
+    transition: 0.2s ease-in-out all;
+}
+.btn:hover{
+    border-color: rgb(0, 136, 109);
+    background-color: aliceblue;
+    color: black;
+}
+.start-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
